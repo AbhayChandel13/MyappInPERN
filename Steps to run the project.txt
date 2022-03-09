@@ -1,0 +1,8 @@
+To run this app:--
+1. you have to first connect to the database (i.e. postgres database used in the app to store data)
+2. database connection files are in the SERVER folder.(server.js & db.js)
+3.For the forntend part Go to the CLIENT folder and just run the 'npm start ' script (make sure you are in the right directory)
+4. MUST : 
+               1.you need to connect to the database and respective table in the database as mention in the db.js file.
+         
+5. It is a Whole App (Frontend in React + Backend in Node,Express,Postgres,Cors)
