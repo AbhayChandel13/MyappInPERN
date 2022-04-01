@@ -1,6 +1,6 @@
 # MyappInPERN
 
-FullStack App made in Postgres,Node,Express,React 
+FullStack App made in Postgres,Node,Express,React.
 
 
 Front End Part:-->
