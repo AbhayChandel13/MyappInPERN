@@ -2,7 +2,6 @@
 
 FullStack App made in Postgres,Node,Express,React.
 
-
 Front End Part:-->
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/97330477/157857352-5d504402-372b-4334-ae8f-42a9d3688be3.png)
